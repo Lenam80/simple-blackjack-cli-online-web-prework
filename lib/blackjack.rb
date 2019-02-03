@@ -1,5 +1,5 @@
 def welcome
-ask_name 
+ask_name
 puts "what is your name"
 end
 
@@ -42,4 +42,3 @@ end
 def runner
   # code runner here
 end
-    
