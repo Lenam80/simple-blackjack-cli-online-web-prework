@@ -1,5 +1,6 @@
 def welcome
-  # code #welcome here
+ask_name 
+puts "what is your name"
 end
 
 def deal_card
